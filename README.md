@@ -1,4 +1,9 @@
-
+Name: MARRIPELLI AKHILA\n 
+Company: CODTECH IT SOLUTIONS 
+ID:CT08DS3645 
+Domain:Artificial Intelligence
+Duration:July-Aug 2024 
+Mentor: 
 Overview: Model Evaluation and Comparison
 Objective:
 The objective of Task 2 is to evaluate and compare the performance of different AI models to determine their effectiveness in solving a particular problem. This involves implementing multiple models, using appropriate evaluation metrics, and analyzing the results to select the best-performing model.
