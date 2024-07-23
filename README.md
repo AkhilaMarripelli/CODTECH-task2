@@ -1,4 +1,4 @@
-Name: MARRIPELLI AKHILA\n 
+Name: MARRIPELLI AKHILA
 Company: CODTECH IT SOLUTIONS 
 ID:CT08DS3645 
 Domain:Artificial Intelligence
